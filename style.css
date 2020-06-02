@@ -24,13 +24,14 @@ a:hover{
 	color:#fec200;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 30px;
-
+	line-height: 2em
 }
 .upoutavka{
 	background-color: #232b52;
 	width: 90%;
 	margin:auto;
 	margin-top: 25px;
+	line-height: 1.5em;
 }
 .upoutavka p{
 	color:#fec200;
@@ -38,5 +39,9 @@ a:hover{
 	font-size: 18px;
 }
 .logo{
+	text-align:center;
+}
+.vlajkaliberland{
+	margin-top:	30px;
 	text-align:center;
 }
