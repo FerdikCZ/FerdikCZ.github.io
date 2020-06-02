@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+}
+h1{
+	color:#fec200;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 50px;
+	background-color: #232b52;
+	text-align:center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+body{
+	background-color:#262d59;
+}
+a{
+	color:red;
+}
+a:hover{
+	color:black;
+}
+.upoutavka h2{
+	color:#fec200;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+
+}
+.upoutavka{
+	background-color: #232b52;
+	width: 90%;
+	margin:auto;
+	margin-top: 25px;
+}
+.upoutavka p{
+	color:#fec200;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+.logo{
+	text-align:center;
+}
